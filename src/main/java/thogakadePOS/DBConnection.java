@@ -1,7 +1,6 @@
-package db;
+package thogakadePOS;
 
 import model.Customer;
-
 import java.util.*;
 
 public class DBConnection {
